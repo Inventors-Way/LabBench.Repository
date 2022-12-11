@@ -35,13 +35,24 @@ LabBench can also access the files by downloading them over the internet. This m
 
 ## 4. Add your new repository to your LabBench system
 
+After you created your LabBench Protocol Repository, you must add it to your LabBench system in order to install and use protocols from this repository.
+
+1. Open the LabBench Designer program.
+2. Select the Protocols page and click the configure button (the cog-wheel icon):
+![Protocols page](AddRepository.png)
+3. In the resulting dialog, enter the folder path or URL of the location of your repository, and click the ADD button. 
+![Add repository dialog](AddRepositoryDialog.png)
+4. Click the OK button.
+
+When the steps above has been completed, you can choose your repository from the drop-down list on the Protocols page and install protocols from your repository.
 
 # Recommended tools for working with LabBench Protocols and Repositories
 
-## 1. Visual Studio 
+To set up experiments you will need to write experiment and protocol definition files, which are text files in a very specific format. LabBench is very strict with this format, any errors in one of these files will cause LabBench to reject the file and give an error.
 
+While you can use any text editor to write these files, it will be easier to write these files if you use a text editor that understands the format of these files, so it can assist you in writing them and provide you with feedback immediately if you make an error.
 
-
+An tool for editing these files would be to install [Visual Studio](https://visualstudio.microsoft.com/vs/ "Code faster. Work smarter. Create the future with the best-in-class IDE."), which can provide code completion (see below) when you write LabBench protocols. Code completion makes it substantially easier to write LabBench protocols.
 
 # What is in a LabBench Protocol Repository
 
