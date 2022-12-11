@@ -8,6 +8,11 @@ LabBench Protocol Repositories can be used to ensure that the protocols used for
 
 ## 1. Download or clone the contents of this template repository
 
+In top right hand corner of the page you are currently reading there is a Code button. Click on this button and choose Download ZIP (this is marked with a red box in the figure below).
+
+![How to download the repository](DownloadZIP.png)
+
+This will download all the code in this repository to your computer as a zip file. Once you downloaded the contents of this repository to your computer, unzip the file to a folder of your choice on your computer or network drive.
 
 ## 2. Change all repository IDs within the template repository
 
