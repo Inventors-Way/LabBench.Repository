@@ -64,8 +64,11 @@ This ```repository.xml``` file is what is loaded/downloaded by LabBench in order
 
 ## Structure of a LabBench Protocol Repository
 
+To Be Written (for now please see the repository folder, which contains an example protocol repository that can be used as a starting point for your own repository)
+
 ## Contents of a protocol
 
+To Be Written (for now please see the subfolders to the repository folder, which contains examples of LabBench protocols)
 
 ## What is XML files
 
