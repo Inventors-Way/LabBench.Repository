@@ -51,17 +51,17 @@ Here is a more relevant example; the repository.xml which defines the contents o
             id="example.labbench.io">
     <protocols>
         <protocol id="cpardemo"
-                  location="CPARDEMO/"
+                  location="CPARDEMO\"
                   protocol="cpardemo.prtx"
                   name="CPAR Demonstration Protocol" />
 
         <protocol id="scriptdemo"
-                  location="SCRIPTDEMO/"
+                  location="SCRIPTDEMO\"
                   protocol="scriptdemo.prtx"
                   name="Scripting Demonstration Protocol" />
 
         <protocol id="thrdemo"
-                  location="THRDEMO/"
+                  location="THRDEMO\"
                   protocol="thrdemo.prtx"
                   name="Threshold Demonstration Protocol" />
 
