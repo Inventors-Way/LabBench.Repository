@@ -1,9 +1,16 @@
 # LabBench.Repository
-Template for LabBench Repositories
+
+A LabBench Protocol Repository is a collection of protocols that defines experimental procedures to be performed in experimental studies. A LabBnech Protocol Repository can be used to store, manage, and access a set of protocols that are used by a single research group or which is made publicly available for all scientists. 
+
+LabBench Protocol Repositories can be used to ensure that the protocols used for research studies are well-defined, consistent, and up-to-date.
 
 
 
-# What is XML files
+# What is in a LabBench Protocol Repository
+
+
+
+## What is XML files
 
 XML (Extensible Markup Language) is a markup language that is used to structure, store, and transport data. XML files are text files that use XML tags to define the structure and content of the data they contain. These tags allow the data to be organized into a hierarchical structure, with different levels of information corresponding to different levels of the hierarchy. XML files can be used to store a wide range of different types of data, including text, numbers, images, and other multimedia content. XML files are often used to exchange data between different systems or applications, as they provide a standardized format that can be easily read and interpreted by a variety of different programs.
 
