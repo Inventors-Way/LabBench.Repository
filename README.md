@@ -16,9 +16,22 @@ This will download all the code in this repository to your computer as a zip fil
 
 ## 2. Change all repository IDs within the template repository
 
+This template repository has the ID = ```example.labbench.io``` which is found in the ID attributes in the following files:
+
+1. repository.xml which is located in the repository folder.
+2. *.expx files in all the protocol subfolders with the repository folder.
+
+Before you can use this repository template as the starting point for your own LabBench Repository you must change these IDs to a unique ID of your own choice.
+
+For example, the Integrative Neuroscience research group at Aalborg University, could use ```integrative-neuroscience.aau.dk```. By using the domain for your organization as part of the ID you garenteee it will be unique as domain names are garanteed to be unique.
 
 ## 3. Decide on how to distribute your repository
 
+For LabBench to be able to use a LabBench Protocol Repository it must be able to access the files in the repository. This can be achieved by either storing the repository locally in which case LabBench can access the file throught the windows file system. 
+
+This can either be a folder on the local harddrive or it could be on a network share. 
+
+LabBench can also access the files by downloading them over the internet. This means that if you have a webserver you can upload all the files of the repository to the webserver.
 
 ## 4. Add your new repository to your LabBench system
 
