@@ -6,8 +6,22 @@ LabBench Protocol Repositories can be used to ensure that the protocols used for
 
 # How to use this Repository Template
 
+## 1. Download or clone the contents of this template repository
+
+
+## 2. Change all repository IDs within the template repository
+
+
+## 3. Decide on how to distribute your repository
+
+
+## 4. Add your new repository to your LabBench system
+
 
 # Recommended tools for working with LabBench Protocols and Repositories
+
+## 1. Visual Studio 
+
 
 
 
