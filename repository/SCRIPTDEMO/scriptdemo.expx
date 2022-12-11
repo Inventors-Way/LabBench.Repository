@@ -3,7 +3,7 @@
             xsi:schemaLocation="http://labbench.io https://inventors-way.github.io/LabBench.Protocols/xsd/dev/experiment.xsd"
             name="Scripting Demonstration"
             id="scriptdemo"
-            protocol="scriptdemo@labbench.io">
+            protocol="scriptdemo@example.labbench.io">
   <description />
   <subject-validator regex="^S[0-9]{3}$"
                      advice="Please enter an ID in the form of SXXX, where X is a digit" />  
