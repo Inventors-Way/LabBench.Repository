@@ -4,6 +4,11 @@ A LabBench Protocol Repository is a collection of protocols that defines experim
 
 LabBench Protocol Repositories can be used to ensure that the protocols used for research studies are well-defined, consistent, and up-to-date.
 
+# How to use this Repository Template
+
+
+# Recommended tools for working with LabBench Protocols and Repositories
+
 
 
 # What is in a LabBench Protocol Repository
