@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <protocol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-          xsi:schemaLocation="http://labbench.io https://inventors-way.github.io/LabBench.Protocols/xsd/2.6.9/protocol.xsd"
+          xsi:schemaLocation="http://labbench.io https://labbench.io/xsd/dev/protocol.xsd"
           name="uconSession01"
           id="UconV300">
   <description />
@@ -33,7 +33,7 @@
     <psychophysics-threshold-estimation ID="TEST" name="Training Test (Up/Down)">
       <dependencies />
       <update-rate-deterministic value="2000" />
-      <yes-no-task>
+      <yes-no-task stimulus-update-rate="20000">
         <sampling sample-duration="1.2" sample-rate="100000"/>
       </yes-no-task>
 
@@ -70,7 +70,7 @@
         <dependency ID="TEST"/>
       </dependencies>
       <update-rate-deterministic value="2000" />
-      <yes-no-task>
+      <yes-no-task stimulus-update-rate="20000">
         <sampling sample-duration="1.2" sample-rate="100000"/>
       </yes-no-task>
 
@@ -182,7 +182,7 @@
         <dependency ID="TEST"/>
       </dependencies>
       <update-rate-deterministic value="2000" />
-      <yes-no-task>
+      <yes-no-task stimulus-update-rate="20000">
         <sampling sample-duration="1.2" sample-rate="100000"/>
       </yes-no-task>
 
