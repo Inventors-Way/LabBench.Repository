@@ -27,6 +27,9 @@ LabBench Protocol Repositories can be used to ensure that the protocols used for
 
 # What is in a LabBench Protocol Repository
 
+## Structure of a LabBench Protocol Repository
+
+## Contents of a protocol
 
 
 ## What is XML files
